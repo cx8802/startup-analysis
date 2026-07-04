@@ -1,0 +1,4 @@
+interface:
+  display_name: "Startup Analysis"
+  short_description: "Structured startup analysis workflows"
+  default_prompt: "Use $startup-analysis to evaluate this startup idea and produce a structured report."
