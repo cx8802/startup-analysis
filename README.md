@@ -20,7 +20,9 @@
 
 项目处于早期设计阶段。已完成创业分析 Skill 的设计文档：
 
-- [创业分析 Skill 项目设计](docs/startup-analysis-skill-design.md)
+- [创业分析 Skill 项目设计](docs/创业分析Skill项目设计.md)
+- [全网公开创业项目趋势分析报告（2026）](docs/全网公开创业项目趋势分析报告-2026.md)
+- [GitHub 与 Gitee 开源项目创业机会分析（2026）](docs/GitHub与Gitee开源项目创业机会分析-2026.md)
 
 后续会基于该设计补充 `SKILL.md`、参考模板和 Python 脚本。
 
@@ -31,7 +33,9 @@ startup-analysis/
 ├── README.md
 ├── README.en.md
 ├── docs/
-│   └── startup-analysis-skill-design.md
+│   ├── 创业分析Skill项目设计.md
+│   ├── 全网公开创业项目趋势分析报告-2026.md
+│   └── GitHub与Gitee开源项目创业机会分析-2026.md
 └── startup-analysis/
     ├── SKILL.md
     ├── agents/
@@ -75,7 +79,7 @@ startup-analysis/
 当前版本以文档为主，可先阅读：
 
 ```bash
-docs/startup-analysis-skill-design.md
+docs/创业分析Skill项目设计.md
 ```
 
 当 Skill 与脚本完成后，推荐流程会是：

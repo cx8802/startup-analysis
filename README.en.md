@@ -20,7 +20,9 @@ Core outputs include:
 
 This repository is in the early design stage. The initial Skill design document is available here:
 
-- [Startup Analysis Skill Design](docs/startup-analysis-skill-design.md)
+- [Startup Analysis Skill Design](docs/创业分析Skill项目设计.md)
+- [Global Startup Project Trend Analysis 2026](docs/全网公开创业项目趋势分析报告-2026.md)
+- [GitHub and Gitee Open Source Startup Opportunities 2026](docs/GitHub与Gitee开源项目创业机会分析-2026.md)
 
 Next steps are to add `SKILL.md`, reference templates, and Python scripts based on the design.
 
@@ -31,7 +33,9 @@ startup-analysis/
 ├── README.md
 ├── README.en.md
 ├── docs/
-│   └── startup-analysis-skill-design.md
+│   ├── 创业分析Skill项目设计.md
+│   ├── 全网公开创业项目趋势分析报告-2026.md
+│   └── GitHub与Gitee开源项目创业机会分析-2026.md
 └── startup-analysis/
     ├── SKILL.md
     ├── agents/
@@ -75,7 +79,7 @@ startup-analysis/
 The current version is documentation-first. Start with:
 
 ```bash
-docs/startup-analysis-skill-design.md
+docs/创业分析Skill项目设计.md
 ```
 
 Once the Skill and scripts are implemented, the intended flow will look like:

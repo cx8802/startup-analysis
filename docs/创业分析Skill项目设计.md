@@ -35,7 +35,7 @@ startup-analysis/
 ├── README.md
 ├── README.en.md
 ├── docs/
-│   └── startup-analysis-skill-design.md
+│   └── 创业分析Skill项目设计.md
 └── startup-analysis/
     ├── SKILL.md
     ├── agents/
